@@ -1,4 +1,4 @@
-# BurgerCity_ChatBotAndAdmin.js
+# BurgerCity ChatBot And Administrator
 
 This is the first version of a personal ChatBot and CLI accounting administration that I used for a delivery shop 
 bussiness during the 2021. It use Express and Socket.IO for the stream connection, Commander and Inquirer for the CLI accounting administration, Mongoose and MongoDB Atlas for the cloud storage, Pupperter, QR generator and the most importar library for this code: 'whatsapp-web.js' for the connection to the phone and be able to interact with the clients.
