@@ -1,0 +1,24 @@
+{
+  "name": "cli-burgercity",
+  "version": "1.0.0",
+  "description": "CLI & FullStack Sofware de gestión de empresa",
+  "main": "app.js",
+  "scripts": {
+    "web": "node appFullStack.js"
+  },
+  "keywords": [],
+  "author": "Juan Diego Coianiz",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.2",
+    "mongoose": "^6.2.10",
+    "open": "^8.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.5.1",
+    "whatsapp-web.js": "^1.16.7"
+  }
+}

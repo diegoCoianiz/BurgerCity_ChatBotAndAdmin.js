@@ -1,0 +1,4 @@
+/public/img/*
+/bot/media/*
+/node_modules
+.env
